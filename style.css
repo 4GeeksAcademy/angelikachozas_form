@@ -1,0 +1,20 @@
+.amount {
+    display: flex;
+    align-items: center;
+}
+
+.amount > i {
+    margin-right: 5px;
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.radiobtn {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 250px!important;
+}
